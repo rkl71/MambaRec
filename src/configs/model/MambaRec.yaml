@@ -1,0 +1,20 @@
+bedding_size: 64
+n_ui_layers: 4
+n_layers: 1
+
+learning_rate_scheduler: [0.96, 50]
+lambda_coeff: 0.9
+reg_weight: 1e-04
+
+knn_k: 10
+
+learning_rate: 0.001
+
+cl_loss: 0.01
+
+mmd_weight: [0.1, 0.15, 0.2]
+mmd_kernel_bandwidth: [1.0, 1.5, 2.0]
+
+reduction_factor: 8
+
+hyper_parameters: ["mmd_weight", "mmd_kernel_bandwidth"]
