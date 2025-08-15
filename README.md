@@ -2,7 +2,7 @@
 
 ## Introduction
 
->**[CIKM 2025]** Modality Alignment with Multi-scale Bilateral Attention for
+>**[CIKM 2025]** Kelin Ren, Chan-Yang Ju, and Dong-Ho Lee(2025). Modality Alignment with Multi-scale Bilateral Attention for
  Multimodal Recommendation
 <img src="images/MambaRec_framework.png" width="800px" height="350px"/>
 
