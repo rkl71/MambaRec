@@ -1,4 +1,9 @@
 # MambaRec
+![](https://img.shields.io/badge/version-1.0.1-blue)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/rkl71/MambaRec/blob/master/LICENSE)
+[![arxiv badge](https://img.shields.io/badge/arxiv-2509.09114-red)](https://arxiv.org/abs/2509.09114)
+[![Pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white)](https://pytorch.org/)
+[![CIKM](https://img.shields.io/badge/CIKM-2025-%23bd9f65?labelColor=%233d4cac&color=%23dd2167)](https://www.cikm2025.org/)
 
 ## Introduction
 
